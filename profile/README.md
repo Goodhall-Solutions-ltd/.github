@@ -1,6 +1,6 @@
 # Goodhall Solutions
 
-![Goodhall Solutions]([https://github.com/GoodhallSolutions/.github/raw/main/branding/logos/goodhall-solutions-logo.png](https://goodhallsolutions.co.uk/goodhall-solutions.png))
+![Goodhall Solutions](https://goodhallsolutions.co.uk/goodhall-solutions.png)
 
 ## Practical software for teams and individuals who value clarity, control and long-term stability
 
