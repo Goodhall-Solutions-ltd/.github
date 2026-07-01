@@ -15,7 +15,7 @@ We are also developing Auto Invoice, a garage invoicing and business management 
 | Product | Description | Website |
 |---|---|---|
 | Fodaris | Infrastructure monitoring with clean design, real alerting and operational insight | [fodaris.co.uk](https://fodaris.co.uk) |
-| Auto Invoice | Garage invoicing and business management software for small garages, MOT centres and service repair businesses | [Autos Invoice.co.uk]([https://autosinvoice.co.uk/]) |
+| Auto Invoice | Garage invoicing and business management software for small garages, MOT centres and service repair businesses | [autosinvoice.co.uk]([https://autosinvoice.co.uk/]) |
 
 ## Public resources
 
